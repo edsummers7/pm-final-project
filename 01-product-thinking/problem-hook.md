@@ -1,53 +1,13 @@
-# Problem Hook & Value Proposition: [StreamLine / RouteLogic / your initiative]
+# Problem Hook & Value Proposition (Module 1)
 
-> **Module 1 · ★ Deliverable 1.** Repo file `01-product-thinking/problem-hook.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 2 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **Problem, Value & Hypothesis** slide of your Module 6 final deck. (Your Module 1 · Exercise 1 discovery map lands in `strategic-map.md`.)
+## Responses
+- **Chosen path, which scenario are you committing to? (StreamLine or RouteLogic, or your own):** StreamLine Spotlight
+- **Strategic crisis, based on the brief, if the company does nothing for 12 months, what happens to its market position?:** The company will be overtaken quite simply. This could be in so many areas such as market share, customer visitation and ultimately revenue. Customer retention is easier than attracting new customers.
+- **Moment of misery, what is the user likely doing outside the product (Google, spreadsheets, a competitor) because your tool isn’t serving them?:** With the nature of the market, customers have access to any number of competitors. Any little thing can swing a customer to leave your service and move to another
+- **Problem hook, summarize the business risk and user pain into one urgent sentence.:** Too many titles not enough time. Users with too much choice can feel overwhelmed and will unlikely be able to experience the full variety of titles that the company has to offer making some of the other niche areas redundant
+- **Value proposition, based on the proposed initiative (Spotlight or Velocity), what is the new value and why is it urgent to launch now?:** Organise and simplify. With so many titles on offer in one space the company should be the premier place for customers to visit and find what they are looking for. The problem comes if they cannot find that one thing that they desire. If they can do this they have a better chance at not only retaining loyal customers but regaining control of the market to be the number one service in this area. Utilise customer wants and desires to curate a library and suggestions not only current interests but allow them to branch into something new.
 
-## 1. Chosen scenario
-
-**Path:** _StreamLine Spotlight (B2C) · RouteLogic Velocity (B2B) · my own initiative_
-
-_One line on why you picked it._
-
-## 2. The strategic crisis
-
-_The big-picture business risk. If the company does nothing for 12 months, what happens to its market position?_
-
-> If we do nothing for 12 months, the company will…
-
-## 3. The moment of misery
-
-_The specific point where the product fails the user, forcing a manual workaround (Google, spreadsheets, group texts, a competitor)._
-
-> The user is currently forced to…
-
-## 4. Problem hook
-
-_One urgent sentence fusing the business risk and the user pain, your pitch for why this is the most important thing to work on right now._
-
-> We must solve [business risk] by addressing [user pain]…
-
-## 5. Value proposition
-
-_Who it's for, the new value, and why it's urgent to launch now._
-
-> For **[who]**, we will **[value]** because **[urgent why]**.
-
-## 6. Cold-read self-review
-
-_Read your hook back as a skeptical stakeholder. If you don't feel the urgency, that's your data._
-
-| Question | Your answer |
-|---|---|
-| Is the business risk high-stakes enough to justify a new initiative? | _____ |
-| Is the moment of misery systemic, or just an edge case? | _____ |
-| Does the value proposition actually remove the obstacle? | _____ |
-
-## 7. Finalized hypothesis _(complete in Module 3)_
-
-> Based on [qual + quant evidence], I believe that [solving X] for [persona] will result in [outcome], as measured by a [X%] change in [success metric]. I will protect [guardrail metric] and make a go/no-go decision after [decision window].
-
-## Link to full artifact
-
-_[link to your Problem Hook Builder export]_
+## Cold-read your own hook
+- **Is the business risk high enough to justify a new initiative, a high-stakes threat, or a minor inconvenience?:** Quite simply yes. Now is the time for action before anything becomes more serious. Operate from a position of power and strength.
+- **Is the moment of misery a systemic problem or just an edge case?:** Systemic problem. The nature of the business they are in, it is only set to grow in terms of money available which will attract more competitors who feel they can offer a better service.
+- **Does the value proposition actually remove the obstacle you identified, or is it a generic feature?:** The problem itself cam be removed. Will it ensure they remain the market lead, that you cannot say but this move is necessary to ensure they have the best chance to operate successfully in this area.
