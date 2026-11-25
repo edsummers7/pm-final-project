@@ -1,3 +1,5 @@
+Link to demo - https://claude.ai/artifact/JmQXZDpgkzstPMn2wcTVnJ
+
 # Spotlight Curated Real, Simplified PRD (StreamLine)
 
 **Author:** Me · **Status:** Draft · **Target:** High-Fidelity Prototype · **Persona:** The Wanderer
