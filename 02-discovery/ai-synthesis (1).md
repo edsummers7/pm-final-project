@@ -1,7 +1,7 @@
 # AI Synthesis, Product Health & Insights Summary (Module 2)
 
 ## Responses
-- **Moment of misery / red flag #1 (e.g., “user gave up after 3 tries”):** Search returns. Common theme not only for this company. The more accurate results returned from searches the better
+- **Moment of misery / red flag #1 (e.g., “user gave up after 3 tries”):** Search returns. Common theme not only for this company. The more accurate results returned from searches the better the utilisation of the product, leading to happier and more engaged customers who wish to remain paying for the product
 - **Moment of misery / red flag #2:** Settings and personalisation. How movies etc are stored and found again. How can we improve access to this and then from there how do we get people onto different shows that are relevant but not a rehash
 - **Moment of misery / red flag #3:** Core functionality linked to the bugs. Cross device failure. Auto play trailers, how quickly it loads and plays
 - **Product Health & Insights Summary (Claude's output):** Product Health & Insights Summary
